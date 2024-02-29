@@ -1,5 +1,5 @@
 # React ToDo App
-- The daily task planner Todo App is a simple and convenient tool built on React.
+The daily task planner Todo App is a simple and convenient tool built on React.
 
 - [DEMO LINK](https://BiletskyiVolodymyr.github.io/react-todo_app/)
 
